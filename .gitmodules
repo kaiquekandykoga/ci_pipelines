@@ -1,3 +1,6 @@
 [submodule "buildkite_ruby"]
 	path = buildkite_ruby
 	url = https://github.com/kaiquekandykoga/ci_basic_buildkite_ruby
+[submodule "gitlab_ruby"]
+	path = gitlab_ruby
+	url = https://gitlab.com/public-kandy/ci_basic_gitlab_ruby
