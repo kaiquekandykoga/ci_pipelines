@@ -4,3 +4,6 @@
 [submodule "gitlab_ruby"]
 	path = gitlab_ruby
 	url = https://github.com/kaiquekandykoga/ci_basic_gitlab_ruby
+[submodule "bitbucket_ruby"]
+	path = bitbucket_ruby
+	url = https://github.com/kaiquekandykoga/ci_basic_bitbucket_ruby
