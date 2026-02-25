@@ -1,0 +1,3 @@
+[submodule "buildkite_ruby"]
+	path = buildkite_ruby
+	url = https://github.com/kaiquekandykoga/ci_basic_buildkite_ruby
